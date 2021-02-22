@@ -1,0 +1,16 @@
+{
+    "Endereços": {
+       "ws_columns": {
+            "ID": "id",
+            "Endereço": "street_name",
+            "No.": "door_number",
+            "CEP": "zipcode",
+            "Bairro": "",
+            "Cidade": "city",
+            "Estado": "state_name",
+            "Complemento": "door_number_postfix"
+       },
+       "xml": "addresses.xml"
+    },
+    "Depósitos": ""
+}
